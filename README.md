@@ -7,8 +7,11 @@
 ### Results
 ##### The results garnered from the Stock Analysis of years 2017 and 2018 were as follows:
 The year 2017 was great for the stocks analyzed. Out of the 12 stocks analyzed for 2017, only one stock underperformed (The Stock "TERP" at -7.2%). Inverseley, the year 2018 was not great for the stocks analyzed. Out of the 12 stocks analyzed for 2018, only two stocks performed positiively (The Stocks "ENPH" and "RUN" at 81.9% and 84.0% respectively). 
+
+
 <img width="445" alt="2017_Stocks_Output" src="https://user-images.githubusercontent.com/86274124/126075260-e9af7156-5ba7-49af-a9b2-71bc3cdc91c6.png">
 <img width="445" alt="2018_Stocks_Output" src="https://user-images.githubusercontent.com/86274124/126075264-dc497d69-8535-4852-a4d8-24ff5584a10a.png">
+
 
 For the code being run, first a basic table was formatted ni VBA followed by a delcaration of the stocks being analyzed in the following format: 
 
